@@ -7,7 +7,7 @@ Ref: https://www.planetcobalt.net/sdb/solr_password_hash.shtml
 ### Build
 
     cd SolrPasswordHash
-    ant .
+    ant
 
 ### Usage:
 
